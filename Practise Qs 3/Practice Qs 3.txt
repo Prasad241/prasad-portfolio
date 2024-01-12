@@ -1,0 +1,4 @@
+# Practice Qs 3
+> Create a portflio page.
+> Add your name & pictures on top.
+> Add sections for your Education,Skills,Skills,Hobbies&contact.
